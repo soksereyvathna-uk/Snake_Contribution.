@@ -7,6 +7,6 @@
   <img alt="github-snake" src="assets/github-snake.svg" />
 </picture>
 
-<a href="https://github.com/soksereyvathna-uk"><img width="55%" align="right" alt="Github Artwork" src="assets/2016-lamborghini-aventador-car-lamborghini-aventador-sv-lamborghini-gallardo-auto-maintenance.jpg"/></a>
+<a href="https://github.com/soksereyvathna-uk"><img width="55%" align="right" alt="Github Artwork" src="assets/nghx.webp"/></a>
 
 
